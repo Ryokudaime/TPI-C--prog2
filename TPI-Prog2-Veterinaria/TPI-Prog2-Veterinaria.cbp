@@ -33,6 +33,7 @@
 			<Add option="-fexceptions" />
 		</Compiler>
 		<Unit filename="main.cpp" />
+		<Unit filename="raza.h" />
 		<Unit filename="usuario.cpp" />
 		<Unit filename="usuario.h" />
 		<Extensions>
